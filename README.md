@@ -12,7 +12,7 @@ Simple Bhop script for cs2 code with c++, memory from cazz
 - All Resolution Support even strech res</br>
 > Minus [+]</br>
 - Memory usage = 7 MB
-
-[Memory](https://github.com/cazzwastaken/pro-bhop/blob/master/cheat/memory.h)
+> Credits</br>
+[Memory That i use for counter strike](https://github.com/cazzwastaken/pro-bhop/blob/master/cheat/memory.h)
 
 # DON'T FORGET TO STAR THIS REPOS :)
