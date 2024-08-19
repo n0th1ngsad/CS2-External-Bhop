@@ -13,4 +13,6 @@ Simple Bhop script for cs2 code with c++, memory from cazz
 > Minus [+]</br>
 - Memory usage = 7 MB
 
+[Memory](https://github.com/cazzwastaken/pro-bhop/blob/master/cheat/memory.h)
+
 # DON'T FORGET TO STAR THIS REPOS :)
